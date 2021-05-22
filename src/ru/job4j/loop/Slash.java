@@ -26,6 +26,8 @@ public class Slash {
         draw(5);
         System.out.println("Draw by 4");
         draw(4);
+        System.out.println("Draw by 9");
+        draw(9);
 
     }
 }
