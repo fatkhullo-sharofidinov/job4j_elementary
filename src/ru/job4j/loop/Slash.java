@@ -1,5 +1,6 @@
 package ru.job4j.loop;
 
+
 public class Slash {
     public static void draw(int size) {
         for (int row = 0; row < size; row++) {
