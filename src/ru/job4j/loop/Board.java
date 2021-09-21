@@ -10,7 +10,6 @@ package ru.job4j.loop;
                         System.out.print(" ");
                     }
                 }
-                /* добавляем перевод на новую строку. */
                 System.out.println();
             }
         }
